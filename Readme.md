@@ -1,1 +1,1 @@
-# This is a code along of next js developer's guide
+# This is a code along of nest js developer's guide
