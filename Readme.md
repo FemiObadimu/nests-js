@@ -1,0 +1,1 @@
+# This is a code along of next js developer's guide
